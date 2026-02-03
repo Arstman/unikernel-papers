@@ -5,6 +5,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 ## Papers
 
 ### 2025
+- [**μFork: Supporting POSIX fork Within a Single-Address-Space OS**](https://arxiv.org/pdf/2509.09439), _SOSP'25_
 - [**UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization**](https://dl.acm.org/doi/10.1145/3727134), _SIGMETRICS'25_
 
 ### 2024
