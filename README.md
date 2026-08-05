@@ -21,6 +21,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**Software Compartmentalization Trade-Offs with Hardware Capabilities**](https://arxiv.org/abs/2309.11332), _PLOS'23_ (FlexOS)
 - [**Assessing Scalability and Performance Isolation of Lightweight Virtualization Systems**](https://github.com/olivierpierre/unikernel-papers/files/12648020/andrej-velichkovski-report.pdf) (BSc project report)
 - [**Exploring Unikernels for Serverless Computing**](https://github.com/olivierpierre/unikernel-papers/files/12648143/nathan-jones-report.pdf) (BSc project report)
+- [**Real-Time Unikernels: A First Look**](https://link.springer.com/chapter/10.1007/978-3-031-40843-4_10), International Conference on High Performance Computing
 
 ### 2022
 
@@ -29,6 +30,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**FlexOS: Towards Flexible OS Isolation**](https://arxiv.org/pdf/2112.06566.pdf), _ASPLOS'22_ (FlexOS)
 - [**Want More Unikernels? Inflate Them!**](https://acmsocc.org/2023/assets/slides/62.pdf), _SoCC'22_
 - [**Analyzing Unikernel Support for HPC: Experimental Study of OpenMP**](https://drive.google.com/file/u/0/d/1aC3zGtwX7D8Nw897DiqKe6v3I3Gxx7oh/view), _ISC High Performance'22 International Workshops_
+- [**Unikernel-Based Real-Time Virtualization Under Deferrable Servers: Analysis and Realization**](https://drops.dagstuhl.de/storage/00lipics/lipics-vol231-ecrts2022/LIPIcs.ECRTS.2022.6/LIPIcs.ECRTS.2022.6.pdf), _ECRTS'22_
 
 
 ### 2021
