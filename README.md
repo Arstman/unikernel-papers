@@ -4,6 +4,9 @@ This repository is a list of all systems papers regarding the topic of unikernel
 
 ## Papers
 
+### 2026
+- [**Hardening the OSv Unikernel with Efficient Address Randomization: Design and Performance Evaluation**](https://scholar.dsu.edu/cgi/viewcontent.cgi?article=1284&context=ccspapers), _International Symposium on Digital Forensics and Security_
+
 ### 2025
 - [**μFork: Supporting POSIX fork Within a Single-Address-Space OS**](https://arxiv.org/pdf/2509.09439), _SOSP'25_
 - [**UniContainer: Unlocking the Potential of Unikernel for Secure and Efficient Containerization**](https://dl.acm.org/doi/10.1145/3727134), _SIGMETRICS'25_
@@ -21,7 +24,7 @@ This repository is a list of all systems papers regarding the topic of unikernel
 - [**Software Compartmentalization Trade-Offs with Hardware Capabilities**](https://arxiv.org/abs/2309.11332), _PLOS'23_ (FlexOS)
 - [**Assessing Scalability and Performance Isolation of Lightweight Virtualization Systems**](https://github.com/olivierpierre/unikernel-papers/files/12648020/andrej-velichkovski-report.pdf) (BSc project report)
 - [**Exploring Unikernels for Serverless Computing**](https://github.com/olivierpierre/unikernel-papers/files/12648143/nathan-jones-report.pdf) (BSc project report)
-- [**Real-Time Unikernels: A First Look**](https://link.springer.com/chapter/10.1007/978-3-031-40843-4_10), International Conference on High Performance Computing
+- [**Real-Time Unikernels: A First Look**](https://link.springer.com/chapter/10.1007/978-3-031-40843-4_10), _International Conference on High Performance Computing_
 
 ### 2022
 
